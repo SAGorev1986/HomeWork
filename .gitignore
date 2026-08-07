@@ -1,0 +1,37 @@
+# ============ IntelliJ IDEA ============
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ============ Maven ============
+target/
+
+# ============ Java ============
+*.class
+*.log
+hs_err_pid*
+
+# ============ Пакетные файлы ============
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ============ Системные файлы ============
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Linux
+*~
